@@ -1,7 +1,17 @@
 Welcome to the ![Hits-of-Code](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) developer page.
 
-## Current projects
- - <a href="https://github.com/warscapeorg">Warscape</a>
+```kotlin
+val y9vad9 by developer {
+    fullName = "Vadim Yaroschuk"
+    age = 0x10
+
+    contacts {
+        telegram(username = "@y9vad9")
+        instagram(username = "@y9vad9")
+        email(address = "y9vad9@gmail.com")
+    }
+}
+```
 
 ## Contacts
  - <a href="https://t.me/y9vad9"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 />  Telegram</a>
