@@ -8,6 +8,7 @@ val y9vad9 by developer {
     contacts {
         telegram(username = "@y9vad9")
         instagram(username = "@y9vad9")
+        twitter(username = "@y9vad9")
         email(address = "y9vad9@gmail.com")
     }
 }
