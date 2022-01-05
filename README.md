@@ -4,6 +4,8 @@ Welcome to the ![Hits-of-Code](https://img.shields.io/badge/kotlin-%230095D5.svg
 val y9vad9 by developer {
     fullName = "Vadim Yaroschuk"
     age = 0x10
+    
+    stack = reference("MY STACK.md")
 
     contacts {
         telegram(username = "@y9vad9")
@@ -13,6 +15,9 @@ val y9vad9 by developer {
     }
 }
 ```
+
+## My stack
+You can check it out [there](MY%20STACK.md).
 
 ## Contacts
  - <a href="https://t.me/y9vad9"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 />  Telegram</a>
