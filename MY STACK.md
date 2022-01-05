@@ -28,6 +28,12 @@ You can check usage of some libraries [there](https://github.com/y9vad9/simple-v
 - Decompose
 
 You can check it out [there](https://github.com/y9vad9/notes).
+
+### Web
+- kobweb
+- kvision
+- Compose for Web
+
 ### Backend
 - Ktor
 - OpenApi
