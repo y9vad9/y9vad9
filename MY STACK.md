@@ -15,7 +15,7 @@ Preferred language to use by me.
   - Accompanist libraries
 #### Libraries
 - Room
-- Picasso, Glide
+- Picasso, Glide, Coil
 - Firebase
 - Admob
 - Android Lifecycle (ViewModel, etc)
