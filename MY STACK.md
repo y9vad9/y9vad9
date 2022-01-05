@@ -52,5 +52,6 @@ The same one to Kotlin experience. I used it before.
 - Laravel
 - Json, XML
 - etc
+Most often I used pure PHP writing not complex CRUDs.
 ## Python (pet)
 I played a little bit with it.
