@@ -22,7 +22,7 @@ val y9vad9 by developer {
 You can check it out [there](MY%20STACK.md).
 
 ## My publications
-- <img src="https://github.com/y9vad9/y9vad9/assets/32961194/54a4fc6f-b639-4bc2-8722-1dfdf798aecb" width=20 height=16 /> [Gradle: from Newbie to Strong fundamentals](https://dev.to/y9vad9/gradle-from-newbie-to-strong-fundamentals-mdf)
+- <img src="https://github.com/y9vad9/y9vad9/assets/32961194/54a4fc6f-b639-4bc2-8722-1dfdf798aecb" width=22 height=16 /> [Gradle: from Newbie to Strong fundamentals](https://dev.to/y9vad9/gradle-from-newbie-to-strong-fundamentals-mdf)
 - <img src="https://github.com/y9vad9/y9vad9/assets/32961194/155661eb-1fa2-4e90-a3b9-0c42b96ce489" width=16 height=16 /> [Coroutines are not just about concurrency](https://dev.to/y9vad9/coroutines-are-not-just-about-concurrency-4bfe)
 - [Extension Oriented Design](https://dev.to/y9vad9/extension-oriented-design-3d41)
 
