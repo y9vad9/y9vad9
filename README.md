@@ -1,8 +1,5 @@
 Welcome to the ![Hits-of-Code](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) developer page.
 
-> **👨🏻‍💻 Looking for Job Opportunities**
-> I'm a Kotlin software engineer with expertise in Android and Multiplatform development, actively seeking exciting job opportunities. You can refer to the [my LinkedIn profile](https://www.linkedin.com/in/y9vad9/) for details about me.
-
 ```kotlin
 val y9vad9 by developer {
     fullName = "Vadym Yaroshchuk"
@@ -20,6 +17,9 @@ val y9vad9 by developer {
     website = "y9vad9.com"
 }
 ```
+
+> **👨🏻‍💻 Looking for Job Opportunities** <br>
+> I'm a Kotlin software engineer with expertise in Android and Multiplatform development, actively seeking exciting job opportunities. You can refer to the [my LinkedIn profile](https://www.linkedin.com/in/y9vad9/) for details about me.
 
 ## My stack
 You can check it out [there](MY%20STACK.md).
