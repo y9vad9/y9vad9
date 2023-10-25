@@ -25,9 +25,12 @@ val y9vad9 by developer {
 You can check it out [there](MY%20STACK.md).
 
 ## My publications
-- <img src="https://github.com/y9vad9/y9vad9/assets/32961194/54a4fc6f-b639-4bc2-8722-1dfdf798aecb" width=22 height=16 /> [Gradle: from Newbie to Strong fundamentals](https://dev.to/y9vad9/gradle-from-newbie-to-strong-fundamentals-mdf)
-- <img src="https://github.com/y9vad9/y9vad9/assets/32961194/155661eb-1fa2-4e90-a3b9-0c42b96ce489" width=16 height=16 /> [Coroutines are not just about concurrency](https://dev.to/y9vad9/coroutines-are-not-just-about-concurrency-4bfe)
-- [Extension Oriented Design](https://dev.to/y9vad9/extension-oriented-design-3d41)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" width=16 height=16 /> **Kotlin**
+    - [Coroutines are not just about concurrency](https://dev.to/y9vad9/coroutines-are-not-just-about-concurrency-4bfe) 
+    - [Extension Oriented Design](https://dev.to/y9vad9/extension-oriented-design-3d41)
+- <img src="https://github.com/y9vad9/y9vad9/assets/32961194/54a4fc6f-b639-4bc2-8722-1dfdf798aecb" width=22 height=16 /> **Gradle**
+    - [Gradle: from Newbie to Strong fundamentals](https://dev.to/y9vad9/gradle-from-newbie-to-strong-fundamentals-mdf)
+    - [Finding the Right Balance in Gradle Dependency Strategy](https://dev.to/y9vad9/finding-the-right-balance-in-gradle-dependency-strategy-4jdl)
 
 ## Contacts
  - <a href="https://t.me/y9vad9"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 />  Telegram</a>
