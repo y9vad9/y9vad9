@@ -18,9 +18,6 @@ val y9vad9 by developer {
 }
 ```
 
-> **👨🏻‍💻 Looking for Job Opportunities** <br>
-> I'm a Kotlin software engineer with expertise in Android and Multiplatform development, actively seeking exciting job opportunities. You can refer to the [my LinkedIn profile](https://www.linkedin.com/in/y9vad9/) for details about me.
-
 ## My stack
 You can check it out [there](MY%20STACK.md).
 
