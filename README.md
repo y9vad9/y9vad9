@@ -22,7 +22,7 @@ val y9vad9 by developer {
 You can check it out [there](MY%20STACK.md).
 
 ## My publications
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" width=16 height=16 /> **Kotlin**
+- <img src="https://github.com/user-attachments/assets/505c16a5-153a-4f6f-b684-0366b138c274" width=16 height=16 /> **Kotlin**
     - [Digging Deep to Find the Right Balance Between DDD, Clean and Hexagonal Architectures](https://dev.to/y9vad9/digging-deep-to-find-the-right-balance-between-ddd-clean-and-hexagonal-architectures-4dnn)
     - [Coroutines are not just about concurrency](https://dev.to/y9vad9/coroutines-are-not-just-about-concurrency-4bfe)
     - [Package naming nobody cares about (but should)](https://dev.to/y9vad9/package-naming-nobody-cares-about-but-should-3i5)
