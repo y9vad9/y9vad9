@@ -5,7 +5,7 @@ val y9vad9 by developer {
     fullName = "Vadym Yaroshchuk"
     age = 0x14
     
-    stack = reference("MY STACK.md")
+    stack = link("https://y9vad9.com/en/notes/programming-languages")
 
     contacts {
         telegram(username = "@y9vad9")
@@ -19,7 +19,7 @@ val y9vad9 by developer {
 ```
 
 ## My stack
-You can check it out [there](MY%20STACK.md).
+You can check it out [there](https://y9vad9.com/en/notes/programming-languages).
 
 ## My publications
 - <img src="https://github.com/user-attachments/assets/505c16a5-153a-4f6f-b684-0366b138c274" width=16 height=16 /> **Kotlin**
