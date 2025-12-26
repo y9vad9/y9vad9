@@ -23,10 +23,11 @@ You can check it out [there](MY%20STACK.md).
 
 ## My publications
 - <img src="https://github.com/user-attachments/assets/505c16a5-153a-4f6f-b684-0366b138c274" width=16 height=16 /> **Kotlin**
+    - [Semantic Typing We Ignore](https://dev.to/y9vad9/semantic-typing-we-ignore-i0d)
     - [Digging Deep to Find the Right Balance Between DDD, Clean and Hexagonal Architectures](https://dev.to/y9vad9/digging-deep-to-find-the-right-balance-between-ddd-clean-and-hexagonal-architectures-4dnn)
     - [Coroutines are not just about concurrency](https://dev.to/y9vad9/coroutines-are-not-just-about-concurrency-4bfe)
     - [Package naming nobody cares about (but should)](https://dev.to/y9vad9/package-naming-nobody-cares-about-but-should-3i5)
-    - [Extension Oriented Design](https://dev.to/y9vad9/extension-oriented-design-3d41)
+    - [Extension-Oriented Design](https://dev.to/y9vad9/extension-oriented-design-3d41)
 - <img src="https://github.com/y9vad9/y9vad9/assets/32961194/54a4fc6f-b639-4bc2-8722-1dfdf798aecb" width=22 height=16 /> **Gradle**
     - [Gradle: from Newbie to Strong fundamentals](https://dev.to/y9vad9/gradle-from-newbie-to-strong-fundamentals-mdf)
     - [Finding the Right Balance in Gradle Dependency Strategy](https://dev.to/y9vad9/finding-the-right-balance-in-gradle-dependency-strategy-4jdl)
