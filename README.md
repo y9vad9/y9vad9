@@ -3,7 +3,7 @@ Welcome to the ![Hits-of-Code](https://img.shields.io/badge/kotlin-%230095D5.svg
 ```kotlin
 val y9vad9 by developer {
     fullName = "Vadym Yaroshchuk"
-    age = 0x12
+    age = 0x14
     
     stack = reference("MY STACK.md")
 
