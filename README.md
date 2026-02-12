@@ -23,6 +23,7 @@ You can check it out [here](https://y9vad9.com/en/notes/programming-languages).
 
 ## My publications
 - <img src="https://github.com/user-attachments/assets/505c16a5-153a-4f6f-b684-0366b138c274" width=16 height=16 /> **Kotlin**
+    - [Failures We Don't Model Correctly](https://dev.to/y9vad9/failures-we-dont-model-correctly-2hbo)
     - [Semantic Typing We Ignore](https://dev.to/y9vad9/semantic-typing-we-ignore-i0d)
     - [Digging Deep to Find the Right Balance Between DDD, Clean and Hexagonal Architectures](https://dev.to/y9vad9/digging-deep-to-find-the-right-balance-between-ddd-clean-and-hexagonal-architectures-4dnn)
     - [Coroutines are not just about concurrency](https://dev.to/y9vad9/coroutines-are-not-just-about-concurrency-4bfe)
