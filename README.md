@@ -3,7 +3,7 @@ Welcome to the ![Hits-of-Code](https://img.shields.io/badge/kotlin-%230095D5.svg
 ```kotlin
 val y9vad9 by developer {
     fullName = "Vadym Yaroshchuk"
-    age = 0x14
+    age = 0x15
     
     stack = link("https://y9vad9.com/en/notes/programming-languages")
 
@@ -11,10 +11,10 @@ val y9vad9 by developer {
         telegram(username = "@y9vad9")
         instagram(username = "@y9vad9")
         twitter(username = "@y9vad9")
-        email(address = "developer@y9vad9.com")
+        email(address = "contact@y9vad9.com")
     }
     
-    website = "y9vad9.com"
+    website = link("https://y9vad9.com")
 }
 ```
 
